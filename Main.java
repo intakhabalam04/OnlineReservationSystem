@@ -50,9 +50,9 @@ public class Main {
         System.out.print("Current SeatMap : ");
         for (int i = 0; i < seat.length; i++) {
             if (seat[i]) {
-                System.out.print("X");
+                System.out.print("X ");
             } else {
-                System.out.print(i + 1);
+                System.out.print(i + 1+" ");
             }
         }
         System.out.println();
