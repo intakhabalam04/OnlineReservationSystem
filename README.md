@@ -14,11 +14,11 @@ To run this project on your system, follow these steps:
 
 4. Compile the Java source files using the following command:
 
-javac Main.java
+### javac Main.java
 
 5. Run the compiled program using the following command:
 
-java Main
+### java Main
 
 6. The seat booking system will start running in the console. Follow the on-screen instructions to interact with the system.
 
