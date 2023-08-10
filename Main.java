@@ -4,7 +4,6 @@ public class Main {
     private static boolean[] seat = new boolean[20];
     private static Scanner sc = new Scanner(System.in);
     private static Random random = new Random();
-    System.out.println("Purna");
 
     public static void main(String[] args) {
         start();
